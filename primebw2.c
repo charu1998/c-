@@ -19,7 +19,7 @@ int main()
 	}
 	if(count==2)
 	{
-		printf("prime");
+		printf(" %d is prime",count);
 	}
  
  
