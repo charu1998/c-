@@ -13,7 +13,7 @@ int main()
 	}
 	if(t==res)
 	{
-		printf("armstrong");
+		printf("yes");
 	}
 	else
 	{
