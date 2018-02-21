@@ -14,5 +14,5 @@ int main()
 		count ++;
 	}
 	}
-	printf("no of spaces are %d",count);
+	printf("no of words are %d",count);
 }
